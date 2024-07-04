@@ -14,13 +14,13 @@ Skrypt zrobiony aby aktywował Clumsy gdy klikniesz wybrany przycisk.
 
 # 🇺🇸
 ## YOU MUST OPEN THIS SCRIPT AS ADMINISTRATOR! 
-2. Download AutoHotKey from https://autohotkey.com/ and then open file English.AHK <br>
+
 ![image](https://github.com/macius555pc/Clumsy-script/assets/166862949/14265c86-5777-49b2-9583-f014d5c0bd1e)
 
 Instructions: <br>
 1. Download file English.EXE from Releases section <br>
 Or <br>
-2. Download AutoHotKey from https://autohotkey.com and then open English.AHK
+2. Download AutoHotKey from https://autohotkey.com/ and then open file English.AHK <br>
 
 This script is made to activate Clumsy when you click selected keybind.
     Made for "teleporting" in minecraft
