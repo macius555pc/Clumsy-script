@@ -1,5 +1,5 @@
 # .exe FILE AVAILABLE IN RELEASES
-# Program w .exe DOSTĘPNY W SEKCJI "RELEASES"
+# 
 
 # 🇵🇱
 ## MUSISZ ODPALIĆ SKRYPT JAKO ADMIN!
