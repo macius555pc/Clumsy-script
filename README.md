@@ -5,7 +5,7 @@
 ![image](https://github.com/macius555pc/Clumsy-script/assets/166862949/d93c4c62-9dd6-468e-b1d3-a9ec494f1522) <br>
 
 Instrukcja:
-1. Pobierz plik Polish.EXE W sekcji "Releases" <br>
+1. Pobierz plik Polish.EXE W sekcji "Releases" <br> <br>
 Lub <br>
 2. Pobierz program AutoHotkey z https://autohotkey.com/ a następnie uruchom plik Polish.AHK <br>
 
