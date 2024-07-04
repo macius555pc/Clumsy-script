@@ -4,7 +4,7 @@
 ## MUSISZ ODPALIĆ SKRYPT JAKO ADMIN!
 1. Pobierz program AutoHotkey z https://autohotkey.com/ <br>
 Lub <br>
-Pobierz gotowy program w pliku .exe W sekcji "Releases" <br>
+Pobierz gotowy program w pliku .exe W sekcji "Releases" <br> <br>
 ![image](https://github.com/macius555pc/Clumsy-script/assets/166862949/d93c4c62-9dd6-468e-b1d3-a9ec494f1522) <br>
 
 Skrypt zrobiony aby aktywował Clumsy gdy klikniesz wybrany przycisk.
