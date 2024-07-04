@@ -1,5 +1,4 @@
-# .exe FILE AVAILABLE IN RELEASES
-# 
+
 
 # 🇵🇱
 ## MUSISZ ODPALIĆ SKRYPT JAKO ADMIN!
