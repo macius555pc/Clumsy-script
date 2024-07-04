@@ -9,6 +9,8 @@ Instrukcja:
 Lub <br>
 Pobierz gotowy program w pliku .exe W sekcji "Releases" <br> <br>
 
+2. Uruchom plik .ahk Lub .exe
+
 Skrypt zrobiony aby aktywował Clumsy gdy klikniesz wybrany przycisk.
     Stworzony do "teleportacji" w minecraft ale używaj go jak chcesz.
 
