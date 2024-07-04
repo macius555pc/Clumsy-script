@@ -1,4 +1,3 @@
-﻿#MaxThreadsPerHotkey, 10000000
 SetBatchLines, -1
 version = 0.2
 Gui, show, w300 h150, Clumsy by maciek555pc v%version%,
