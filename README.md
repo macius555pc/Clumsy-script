@@ -4,7 +4,7 @@
 ## MUSISZ ODPALIĆ SKRYPT JAKO ADMIN!
 ![image](https://github.com/macius555pc/Clumsy-script/assets/166862949/d93c4c62-9dd6-468e-b1d3-a9ec494f1522) <br>
 
-Instrukcja:
+### Instrukcja:
 1. Pobierz plik Polish.EXE W sekcji "Releases" <br>
 Lub <br>
 2. Pobierz program AutoHotkey z https://autohotkey.com/ a następnie uruchom plik Polish.AHK <br>
@@ -17,7 +17,7 @@ Skrypt zrobiony aby aktywował Clumsy gdy klikniesz wybrany przycisk.
 
 ![image](https://github.com/macius555pc/Clumsy-script/assets/166862949/14265c86-5777-49b2-9583-f014d5c0bd1e)
 
-Instructions: <br>
+### Instructions: <br>
 1. Download file English.EXE from Releases section <br>
 Or <br>
 2. Download AutoHotKey from https://autohotkey.com/ and then open file English.AHK <br>
